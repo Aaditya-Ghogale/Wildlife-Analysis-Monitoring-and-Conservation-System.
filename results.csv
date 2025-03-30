@@ -1,0 +1,8 @@
+date,time,datasource,animal,gunshot,week
+28-03-2025,00:35,datasource1,cheetah,No,3
+28-03-2025,00:38,datasource2,No,Yes,3
+28-03-2025,00:40,datasource3,cheetah,Yes,3
+28-03-2025,17:21,datasource2,cheetah,No,3
+28-03-2025,17:24,datasource3,No,Yes,3
+28-03-2025,17:26,datasource1,wolf,Yes,3
+28-03-2025,17:36,datasource4,wolf,Yes,3
